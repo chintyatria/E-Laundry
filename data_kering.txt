@@ -1,0 +1,3 @@
+Berat Pakaian = 4
+Tarif = 12000
+Nama Panggilan = Chintya

@@ -1,0 +1,4 @@
+Nama Panggilan = Chintya
+Berat Pakaian = 6
+Tarif = 30000
+Tanggal Diambil = 20 Januari 2021

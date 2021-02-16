@@ -1,0 +1,7 @@
+Nama Panggilan = Chintya
+Berat Pakaian = 3
+Tarif = 13500
+Tanggal Diambil = 21 Januari 2021
+Berat Pakaian = 6
+Tarif = 27000
+Nama Panggilan = Andi
